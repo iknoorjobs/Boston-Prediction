@@ -1,5 +1,6 @@
 BOSTON PRICING PREDICTION ML
 This project is a part of Udacity Machine Learning Nanodegree.
+The boston housing prices has been predicted using Decission tree with an accuracy of 90.3 %.
 
 UDACITY
 
